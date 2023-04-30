@@ -1,0 +1,24 @@
+Num_IdPers="1022428551"
+print(Num_IdPers)
+NombrePer="Osmel" " " "David"
+print(NombrePer)
+ApellPer="Montalvo" " " "Miranda"
+print(ApellPer)
+Direc="cl.128#51-68"
+print(Direc)
+Tlf="3113980496"
+print(Tlf)
+Edad="28"
+print(Edad)
+EstCivil="Soltero"
+print(EstCivil)
+NumHijos="2"
+print(NumHijos)
+Estatura="1,78Cm"
+print(Estatura)
+Contratacion="22/Abril/2023"
+print(Contratacion)
+Sueldo="1.800.000"
+print(Sueldo)
+DiasLab="110 Dias"
+print(DiasLab)
