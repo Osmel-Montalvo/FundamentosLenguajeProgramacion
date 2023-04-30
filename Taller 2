@@ -1,0 +1,27 @@
+Edad = input("Digite la edad del empleado: ")
+if Edad > "55":
+  print("Cuenta con bono de pension ")
+else:
+  print("No cuenta con la edad para su bono de pension")
+EstadoCivil = input("Digite el estado civil del empleado: ")
+if EstadoCivil == "casado":
+  print("Tiene derecho a paseo en diciembre")
+else:
+  print("No tiene derecho a paseo en diciembre")
+Hijos = input("Tiene Hijos? ")
+if Hijos or si:
+  print("Tiene derecho a paseo en diciembre")
+else:
+  print("No tiene derecho a paseo en diciembre")
+Sueldo = 1800000
+if Sueldo < 2000000 and Sueldo >1500001:
+   print(f"Su comision es = {Comision} y su salario total es = {Total}")
+else:
+   print("No tiene comision")
+Comision = Sueldo * 0.05
+Total = Sueldo + Comision
+Dias = int(input("Digite los dias laborados"))
+if Dias > 20:
+  print("Tiene derecho a bono de alimentacion")
+else:
+  print("No tiene derecho a bono de alimentacion")
